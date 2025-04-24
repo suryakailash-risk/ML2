@@ -3,7 +3,7 @@
 # Exploring Youth Drug Use with Decision Trees
 
 ## Overview
-This project analyzes factors influencing substance use among U.S. youth using data from the **2020 National Survey on Drug Use and Health (NSDUH)**. We use decision tree-based models to understand and predict behaviors related to alcohol and tobacco consumption.
+This project analyzes factors influencing substance use among U.S. youth using data from the **2020 National Survey on Drug Use and Health (NSDUH)**. We use decision tree-based models to understand and predict behaviors related to alcohol and tobacco consumption. Video and PPT attached below.
 
 ## Objectives
 The project aims to answer the following research questions:
