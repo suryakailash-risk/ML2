@@ -36,15 +36,7 @@ The project aims to answer the following research questions:
   - Hyperparameter Tuning with GridSearchCV
   - Evaluation using accuracy (classification) and R², MAE, RMSE (regression)
 
-## Results Summary
-| Task                         | Best Model         | Key Metric            | Value     |
-|------------------------------|--------------------|------------------------|-----------|
-| Binary Classification (Alcohol) | Decision Tree       | Accuracy               | ~80%      |
-| Binary Classification (Cigarettes) | Random Forest    | Accuracy               | ~81%      |
-| Multi-class Classification   | Gradient Boosting  | Accuracy               | ~34.2%    |
-| Regression (CIGMDAYS)        | Gradient Boosting  | R² Score               | ~0.02     |
-
-##Result
+## Result
 - Video - https://youtu.be/Wey1OpZq2mg
 - PPT -https://redhawks-my.sharepoint.com/:p:/g/personal/sramesh_seattleu_edu/EWZ3GHBXM1lGsuesdeyrb6QBOQCUuJMsV4u0YLh_UFrbgw?e=JQiywe
 
