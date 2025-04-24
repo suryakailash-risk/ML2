@@ -44,6 +44,10 @@ The project aims to answer the following research questions:
 | Multi-class Classification   | Gradient Boosting  | Accuracy               | ~34.2%    |
 | Regression (CIGMDAYS)        | Gradient Boosting  | R² Score               | ~0.02     |
 
+##Result
+- Video - https://youtu.be/Wey1OpZq2mg
+- PPT -https://redhawks-my.sharepoint.com/:p:/g/personal/sramesh_seattleu_edu/EWZ3GHBXM1lGsuesdeyrb6QBOQCUuJMsV4u0YLh_UFrbgw?e=JQiywe
+
 ## Key Takeaways
 - Parental monitoring and peer disapproval are strong predictors.
 - Ensemble models like Random Forest and Gradient Boosting improve accuracy.
