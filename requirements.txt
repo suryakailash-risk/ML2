@@ -4,3 +4,4 @@ seaborn
 sklearn
 numpy
 pandas
+!pip install --upgrade pip
